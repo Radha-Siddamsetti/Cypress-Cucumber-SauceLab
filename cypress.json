@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://www.saucedemo.com/v1/index.html",
+    
+    "ChromeWebSecurity":false,
+    "testFiles": "**/*.feature",
+    "defaultCommandTimeout":30000,
+    "PageLoadTimeout":30000,
+    "viewportWidth":1680,
+    "viewportHeight":1680
+    
+
+
+    
+
+    }
