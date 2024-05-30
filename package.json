@@ -11,8 +11,9 @@
   "dependencies": {
     "cypress": "^9.7.0",
     "cypress-cucumber-preprocessor": "^4.3.1",
-    "cypress-xpath":"^1.6.2"
-     },
+    "cypress-iframe": "^1.0.1",
+    "cypress-xpath": "^1.6.2"
+  },
   "cypress-cucumber-preprocessor": {
     "nonGlobalStepDefinitions": true
   }

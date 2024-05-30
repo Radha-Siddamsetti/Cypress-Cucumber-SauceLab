@@ -14,7 +14,7 @@ Given('A user opens the login page', () =>
 {
      HomePage.aboutPage();
      cy.screenshot()
-     
+    //cy.xpath("//span[contains(text(),'Pricing')]").should('be.visible')
  })
 
  
